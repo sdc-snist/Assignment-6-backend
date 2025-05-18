@@ -124,8 +124,31 @@ Create a middleware called `validateUserInput(req, res, next)` that checks:
 
 ---
 
+
 ## ✅ Final Notes:
 
 - **No need for a database** (in-memory array only)
 - **No need for hashing passwords** (keep it simple for now)
 - **Focus on logic, validation, and token flow**
+## ✅ How to Run
+
+## Method 1 :
+
+1. **Clone this repo** to your local machine:
+   ```bash
+   git clone https://github.com/sdc-snist/Assignment-6-backend/
+   cd Assignment-6-backend
+2. **Run the Code**:
+   ```bash
+   node index.js
+## Method 2 :
+
+1. **Download this folder as a ZIP** 
+
+2. **Extract the ZIP folder** on your computer.
+
+3. **Open the folder in VS Code** or any code editor.
+
+4. **Run file** using Node.js in your terminal:
+   ```bash
+   node index.js
